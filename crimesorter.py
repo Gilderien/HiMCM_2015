@@ -88,6 +88,27 @@ def gen_data(infile, outfile):
                                  0])
 
 
+gen_data('District1.csv', 'Data1.csv')
+gen_data('District2.csv', 'Data2.csv')
+gen_data('District3.csv', 'Data3.csv')
+gen_data('District4.csv', 'Data4.csv')
+gen_data('District5.csv', 'Data5.csv')
+gen_data('District6.csv', 'Data6.csv')
+gen_data('District7.csv', 'Data7.csv')
+gen_data('District8.csv', 'Data8.csv')
+gen_data('District9.csv', 'Data9.csv')
+gen_data('District10.csv', 'Data10.csv')
+gen_data('District11.csv', 'Data11.csv')
+gen_data('District12.csv', 'Data12.csv')
+gen_data('District14.csv', 'Data14.csv')
+gen_data('District15.csv', 'Data15.csv')
+gen_data('District16.csv', 'Data16.csv')
+gen_data('District17.csv', 'Data17.csv')
+gen_data('District18.csv', 'Data18.csv')
+gen_data('District19.csv', 'Data19.csv')
+gen_data('District20.csv', 'Data20.csv')
+gen_data('District22.csv', 'Data22.csv')
+gen_data('District24.csv', 'Data24.csv')
 gen_data('District25.csv', 'Data25.csv')
 print totals
 
